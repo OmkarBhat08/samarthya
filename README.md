@@ -1,2 +1,0 @@
-# samarthya
-python bootcamp
